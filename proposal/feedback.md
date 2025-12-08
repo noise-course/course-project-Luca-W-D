@@ -1,0 +1,3 @@
+## Feedback
+
+This is a thoughtful and well motivated project. For the experiments, the two technical pieces that will matter most are how you define and validate your degradation labels in part one, since any noise in those labels will directly cap the quality of the predictive model, and how you structure your forecasting windows in part two, because the choice of look-back horizon and prediction horizon will strongly affect what patterns the models can realistically learn from the latency time series. Once those choices are nailed down, your backtesting framework should give a clear picture of which models generalize best.
