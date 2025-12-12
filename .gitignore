@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 *-backup.csv
 ignore-*
-# clean_labeled.csv
 **/.DS_Store
 .venv
+**/__pycache/
